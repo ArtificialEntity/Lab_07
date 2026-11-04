@@ -12,7 +12,7 @@
 5. Написать оператор switch с 6-ю case-ами для вывода дня недели и default для вывода ошибки.
 6. Конец.
 ### Блок-схема:
-![diagram]()
+![diagram](https://github.com/ArtificialEntity/Lab_07/blob/main/Lab_07_Diagram.png)
 ## 2. Реализация программы
 ```c
 #define _CRT_SECURE_NO_WARNINGS
